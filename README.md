@@ -7,7 +7,7 @@ Polish your English and reply smarter — an AI-powered messaging assistant.
 
 ## 🚀 Live Demo
 
-Try it here: [https://your-streamlit-app-url](https://your-streamlit-app-url)
+Try it here: [https://your-streamlit-app-url](https://your-streamlit-app-url)](https://message-assistant-ai-95qwtzqkdodfq3xfb78myu.streamlit.app/)
 
 ---
 
